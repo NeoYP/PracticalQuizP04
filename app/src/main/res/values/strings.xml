@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">PracticalQuiz</string>
+    <string name="si">Student Info</string>
+    <string name="insert">Insert</string>
+    <string name="retrieve">Retrieve</string>
+</resources>
